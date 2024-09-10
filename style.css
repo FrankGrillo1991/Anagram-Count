@@ -31,3 +31,8 @@ body {
     padding: 2%;
     margin: auto;
 }
+
+.option>span {
+    display: flex;
+    padding: 2%;
+}
