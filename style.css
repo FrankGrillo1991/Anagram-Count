@@ -22,3 +22,12 @@ body {
     border-radius: 0 10px;
     padding: 3%;
 }
+
+.option {
+    text-align: left;
+    display: flex;
+    flex-direction: column;
+    font-size: x-large;
+    padding: 2%;
+    margin: auto;
+}
